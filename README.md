@@ -2,7 +2,7 @@
 
 # Pokédevs - Semana do Zero ao Programador Contratado
 
-<img src="./assets/images/pokedex.webp">
+<img src="./src/images/pokedex.webp">
 
 Este projeto é resultado da atividade prática proposta na Semana do Zero ao Programador Contratado pelos gêmeos do devemdobro.
 
