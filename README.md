@@ -22,7 +22,7 @@ Apresentar uma listagem a príncipio com 6 pokémons que são programadores. Ao 
 
 ## ✒️ Autor
 
-**Rafael Rodrigues Pereira** - *Este projeto é um Desafio de Projeto da DIO* - [linkedin](https://www.linkedin.com/in/rafaelrpereira/)
+**Rafael Rodrigues Pereira** - [linkedin](https://www.linkedin.com/in/rafaelrpereira/)
 
 ## 💻 Site do Projeto
 [Resultado](https://js-developer-pokedex-two-sandy.vercel.app/)
