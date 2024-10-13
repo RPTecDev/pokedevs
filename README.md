@@ -25,5 +25,5 @@ Apresentar uma listagem a príncipio com 6 pokémons que são programadores. Ao 
 **Rafael Rodrigues Pereira** - [linkedin](https://www.linkedin.com/in/rafaelrpereira/)
 
 ## 💻 Site do Projeto
-[Resultado](https://js-developer-pokedex-two-sandy.vercel.app/)
+[Resultado](https://pokedevs-navy.vercel.app/)
 
